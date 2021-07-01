@@ -1,0 +1,13 @@
+#header {
+  background-color: #1bb4ba;
+  display: flex;
+  width: 100vw;
+  height: 175px;
+}
+
+#header a {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  margin-right: auto;
+}
